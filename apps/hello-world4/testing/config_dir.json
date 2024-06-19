@@ -1,0 +1,13 @@
+{
+  "appName": "hello-world4",
+  "userGivenName": "hello-world4",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "nginx",
+  "srcRepoURL": "https://github.com/wikenhub/ktds-repo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
